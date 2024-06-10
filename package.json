@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "name": "movie_app",
+  "description": "Movie Listing App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Movie",
+    "app"
+  ],
+  "author": "Bhushan Gandhele",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhushangandhele/Movie_App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhushangandhele/Movie_App/issues"
+  },
+  "homepage": "https://github.com/bhushangandhele/Movie_App#readme"
+}
